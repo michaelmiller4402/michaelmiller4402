@@ -1,7 +1,16 @@
 ### Hi there 👋
+My name is Michael Miller and I am currently a second-semester Junior in AER E 361 at Iowa State. I am majoring in Aerospace Engineering and I am working on two minors, one in Computer Science and the other in Psychology. I recently completed a co-op at Collins Aerospace working in a Systems Engineering role over the Spring/Summer of 2023. I also have experience in undergraduate research both here at Iowa State and at Mizzou.
+
+In this course I am interested to learn / see how developed code interacts / instructs a physical system. So far, I have not seen code that I have developed in courses do something to a physical object, so that is something I hope to look forward to. I am also interested to continue developing my programming skills throughout this course. Another thing I hope to gain from this class is an improved ability in technical documentation of work. Whether that is in coding or in report writing, I think that this class will help me improve on those skills so that I can provide a good reference for my work to my future self and others.
+
+My favorite passtimes include watching movies, playing sports (basketball, volleyball, soccer, football, spikeball, disc golf, etc...), listening to music, reading, and generally anything outdoors. I am hoping to join some more intramurals this fall at ISU (have participated in pool, mini golf, and some fantasy football/basketball ones thus far). I also enjoy spending time with my friends and family.
+
+That's a little about me. For any questions please reach me at my email: mjm4402@iastate.edu
 
 <!--
 **michaelmiller4402/michaelmiller4402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+What are you interested in learning? What are you working on? What's your favorite hobby?
 
 Here are some ideas to get you started:
 
